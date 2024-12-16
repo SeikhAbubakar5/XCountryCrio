@@ -1,0 +1,16 @@
+.App{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 20px;
+  overflow-x: hidden;
+}
+.country img{
+  width:120px;
+  height: 80px;
+  object-fit: cover;
+}
+.country p{
+  text-align: center;
+}
